@@ -1,8 +1,10 @@
 # DVD Screensaver Simulator
 
+This is a JavaScript-based DVD screensaver simulator that I created using only raw HTML, CSS, and JavaScript. The simulator mimics the behavior of the classic DVD screensaver, where a bouncing DVD logo moves around the screen and bounces off the edges.
+
 <img src="https://github.com/PeterBaptista/DVD-Screensaver-Simulator/blob/main/ezgif.com-video-to-gif.gif" >
 
-This is a JavaScript-based DVD screensaver simulator that I created using only raw HTML, CSS, and JavaScript. The simulator mimics the behavior of the classic DVD screensaver, where a bouncing DVD logo moves around the screen and bounces off the edges.
+
 
 To create this project, I used HTML to create the basic structure of the webpage, CSS to style the layout and design, and JavaScript to add interactivity and functionality to the project. Specifically, I used JavaScript to animate the DVD logo and detect collisions with the edges of the screen, causing the logo to bounce off in a new direction.
 
